@@ -1,3 +1,8 @@
+body {
+	background-color: #4A2134;
+	background-image: url(imagenes/fondo.jpg);
+}
+
 table {
   	border-collapse: collapse;
 }
@@ -8,7 +13,7 @@ table, td, th{
 
 th {
   	color: blue;
-  	border-color: black;
+  	border-color: white;
 }
 
 tbody {
